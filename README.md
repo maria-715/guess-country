@@ -20,7 +20,7 @@ The tests have also been written.
 - Implemented the state machine, event and view handling, transition logic using Scala.
 - Used the `ujson` library for serializing/deserializing events and views.
 - Created the user interface using Scala.js and CSS.
-- Written the state machine tests using WebappTest (pre-defined)
+- Written the state machine tests using WebappTest (pre-defined).
 
 ### Rules
 
